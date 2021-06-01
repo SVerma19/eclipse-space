@@ -1,0 +1,58 @@
+﻿
+Apple AirPods 2019 review:
+
+The Good The second-generation AirPods add a couple of small but key improvements to the original, including always-on voice recognition and a wireless charging case option. They're a top-notch headset for making calls, indoors and out. Apple's new H1 chip also allows for faster connections with all of your Apple devices, rock solid wireless connectivity, and an hour more talk time.
+
+The Bad No design changes to help them fit more ears securely; their sound hasn't improved, and their open design allows for a lot of ambient noise to leak in.
+
+The Bottom Line The new AirPods are an incremental upgrade to an already excellent, fully wireless headphone, but sound quality, design and fit are basically the same.
+
+CNETAudioHeadphonesApple AirPods 2019
+Apple seems to be doing this a lot lately: Taking an already excellent, hugely successful product like the iPhone ($1,000 at Amazon) -- or in this the case, the AirPods ($184 at Walmart) -- and offering little in the way of external alterations but updating its internals, enhancing the device but not fundamentally changing it.
+
+Such incremental upgrades tend to be a little boring. And on the surface anyway, the new AirPods aren't exciting. However, thanks to those updated components on the inside, including a new H1 chip that supports Bluetooth 5.0, improved audio synchronization and always-on Siri, they're definitely better in small ways that a lot of people will appreciate.
+
+Sarah Tew/CNET
+The base model remains at $159 (£159, AU$249). To get the long-awaited wireless charging case, which charges on any Qi-compatible charging mat, you'll have to pay an extra $40 or $199 total (£199, AU$319). Meanwhile owners of the original AirPods can buy the wireless charging case separately for the not-exactly-a-bargain price of $79 (£79, AU$129). Fun fact: The standalone wireless charging case does not include a USB/Lightning cable, but the full 2019 AirPods -- with regular and wireless case -- do.
+
+SEE WIRELESS CHARGING CASE AT AMAZON
+The only way to tell the two cases apart is the addition of a tiny LED on the outside of the wireless one and the placement of the pairing button. Additionally, the metal hinge on the lid of the case is finished in a matte-silver (instead of chrome) and apparently reinforced, according to a teardown by iFixit, so it should be more durable.
+
+That little LED lets you know that the case is charging. However, it turns off after the case has been in contact with a charging mat for a few seconds.
+
+New chip, new features
+The new AirPods themselves look identical to the originals, which are now more than two years old. Some reports were claiming that version 2 would come in black and possibly other colors -- like the old iPod Nano or the current iPhone XR. Also -- and more importantly -- the new buds might have a new soft-touch coating with a subtle grip to it that helps the AirPods 2 stay in people's ears more securely (see posts by MySmartPrice and Economic Daily News). We got neither of those design updates, although it's possible Apple could add new colors this fall with the release of its next iPhones.
+
+As I said, the big change is on the inside with the addition of the new H1 chip, which the company says "features custom audio architecture to create a revolutionary audio experience and improved synchronization."
+
+Angela Lang/CNET
+The new H1 chip helps facilitate the AirPods' biggest new feature, the widely expected addition of always-on voice recognition. That means that instead of double-tapping one AirPod to activate Siri (they are touch sensitive), you simply say "Hey Siri" to summon Apple's voice assistant.
+
+
+It worked quite well in my tests, with zippy responsiveness, and it just might get you to use Siri more often if you don't use it that much now. You can still program double-tapping on a bud to activate Siri, but most people will program the gesture to skip tracks forward and back (you can assign the right bud for skips forward and the left for skips back -- or vice versa).
+
+While there are no volume controls on the AirPods, you can now just tell Siri to lower or raise the volume. You can also tell her to skip a track forward or back, but it only works in Apple Music, not Spotify (when you're using other music services, you have to double-tap to skip tracks).
+
+Apple promises the H1 allows for twice-as-fast connection times between all the Apple devices you own, and while I didn't time my connections, they did seem faster.
+
+After updating an iPhone X ($612 at Walmart), Apple Watch Series 3 ($409 at Amazon), iPad ($249 at Walmart) (2018) and new Mac Mini with Apple's latest operating system updates, I connected the new AirPods to all of them without a problem. If you're signed into iCloud across your Apple devices, they'll automatically be listed in the Bluetooth connection menu on each device and will automatically try to pair with the last device you paired to (when you take them out of the charging case). If you're wearing an Apple Watch ($385 at Amazon) and play audio on it, your AirPods will automatically toggle from your iPhone to your Watch and vice versa. With the rest of the aforementioned devices, as well as Apple TV ($169 at Walmart), you'll have manually switch the AIrPods.
+
+Sarah Tew/CNET
+Same battery, improved talk time
+According to Teardowns, the battery inside the new AirPods is the same capacity as the one found in the originals. And while the battery life rating for music listening remains the same at 5 hours, Apple says you'll get 50 percent more talk time -- 1 hour more -- compared to first-generation AirPods (we're still in the process of confirming this). A 15-minute recharge in the case gives you 3 hours of listening time and 2 hours of talk time, which helps mitigate any battery life concerns.
+
+Just beware that battery life will diminish over time if you use the AirPods regularly -- and you can't replace the batteries. That's true for all these true wireless earphones.
+
+Sound quality
+Apple hasn't made any claims about sound quality being any better for listening to music. It's essentially the same as far as I can tell. There were times when I thought the sound seemed a touch more forward -- and just a bit louder -- with the new AirPods. But it's hard to tell for sure, because the AirPods have an open design and looser fit compared to noise-isolating earphones. When you put them in your ears, they don't sit in the exact same position each time -- and everyone wears them a little differently. Slight angle changes can change the sound, so it's hard to make precise comparisons.
+
+Call quality has definitely improved, however. You won't hear it, but callers will because the new AirPods do a better job filtering out background noise, including wind, so people can hear you better in outdoor environments. I compared the New AirPods to the Jabra Elite 65t on the streets in New York. While my voice sounded slightly clearer on the Jabra, the new AirPods did a little better job filtering out background noise.
+
+Bluetooth lag is a serious annoyance when watching video and playing games. But the good news is that it was nearly nonexistent with the new AirPods -- the synchronization seemed right on the money during both activities.
+
+For music listening, the AirPods still fall short of some true wireless competitors like the Jabra Elite 65t/Elite Active 65t, UA True Wireless Flash by JBL, Bose SoundSport Free and even the cheaper Anker SoundCore Liberty Air, which have richer sound with more bass and also sound better in noisier environments. But when it comes to making calls they're top-notch.
+
+Like the originals, the new AirPods work with Android phones and other Bluetooth audio devices. But certain special features like fast pairing and always-on Siri only work with Apple devices.
+
+This review was originally published March 30, 2019.
+
